@@ -120,3 +120,6 @@ Execute the program
 # OUPUT
 
 ![timetable](https://user-images.githubusercontent.com/119094390/214304869-9a931aa4-f5da-4f48-ae58-a8ae2e32105e.png)
+
+# Result 
+thus the program is developed to display the timetable
